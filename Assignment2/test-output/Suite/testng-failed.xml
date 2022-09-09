@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Classes.Ellipse">
+        <methods>
+          <include name="testArea"/>
+        </methods>
+      </class> <!-- Classes.Ellipse -->
+      <class name="Classes.Circle">
+        <methods>
+          <include name="testArea"/>
+        </methods>
+      </class> <!-- Classes.Circle -->
+      <class name="Classes.Trapezoid">
+        <methods>
+          <include name="testArea"/>
+        </methods>
+      </class> <!-- Classes.Trapezoid -->
+      <class name="Classes.Triangle">
+        <methods>
+          <include name="testArea"/>
+          <include name="testArea"/>
+        </methods>
+      </class> <!-- Classes.Triangle -->
+      <class name="DataProvider">
+        <methods>
+          <include name="testCases" invocation-numbers="0 2 7 9 10"/>
+        </methods>
+      </class> <!-- DataProvider -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
