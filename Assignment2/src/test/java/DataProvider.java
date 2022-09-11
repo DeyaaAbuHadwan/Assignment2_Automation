@@ -16,15 +16,7 @@ public class DataProvider {
 	public Object[][] ProviderMethod() {
 
 		ReadCSV csv = new ReadCSV();
-		Object[][] res = csv.readDataLineByLine(
-				".\\src\\test\\resources\\TestArea.csv");
-//		for (Object[] objects : res) {
-//			System.out.print("\n-> ");
-//			for (Object objects2 : objects) {
-//				System.out.print(objects2 + " - ");
-//			}
-//		}
-//		System.out.println();
+		Object[][] res = csv.readDataLineByLine(".\\src\\test\\resources\\TestArea.csv");
 		return res;
 	}
 

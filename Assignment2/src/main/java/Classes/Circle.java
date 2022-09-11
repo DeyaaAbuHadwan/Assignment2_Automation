@@ -10,7 +10,7 @@ import Abstract.Shape;
 public class Circle extends Shape {
 	private double radius;
 	private final double PIE = 3.14;
-	private double expectArea;
+	public double expectArea;
 
 	public Circle(double radius, double expectArea) throws IllegalAccessException {
 		this.radius = radius;
@@ -23,11 +23,6 @@ public class Circle extends Shape {
 
 	public double getArea() {
 		return PIE * getRadius() * getRadius();
-	}
-
-	@Test
-	public void testArea() {
-		assertEquals(expectArea, getArea());
 	}
 
 	@Override

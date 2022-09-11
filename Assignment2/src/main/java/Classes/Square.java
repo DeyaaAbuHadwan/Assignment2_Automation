@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 public class Square extends Shape {
 	private double side;
-	private double expectArea;
+	public double expectArea;
 
 	public Square(double side, double expectArea) throws IllegalAccessException {
 		this.expectArea = expectArea;
@@ -24,10 +24,7 @@ public class Square extends Shape {
 		return getSide() * getSide();
 	}
 
-	@Test
-	public void testArea() {
-		assertEquals(expectArea, getArea());
-	}
+
 
 	@Override
 	public String toString() {

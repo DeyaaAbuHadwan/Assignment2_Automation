@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="24" passed="14" failed="10" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-10T00:39:13 IDT" name="Suite" finished-at="2022-09-10T00:39:13 IDT" duration-ms="59">
+  <suite started-at="2022-09-11T22:55:42 IDT" name="Suite" finished-at="2022-09-11T22:55:43 IDT" duration-ms="71">
     <groups>
     </groups>
-    <test started-at="2022-09-10T00:39:13 IDT" name="Test" finished-at="2022-09-10T00:39:13 IDT" duration-ms="59">
+    <test started-at="2022-09-11T22:55:42 IDT" name="Test" finished-at="2022-09-11T22:55:43 IDT" duration-ms="71">
       <class name="DataProvider">
-        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-10T00:39:13 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-10T00:39:13 IDT" duration-ms="5" status="FAIL">
+        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-11T22:55:42 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-11T22:55:42 IDT" duration-ms="6" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -80,7 +80,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCases -->
-        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-10T00:39:13 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-10T00:39:13 IDT" duration-ms="0" status="PASS">
+        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-11T22:55:42 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-11T22:55:42 IDT" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -111,7 +111,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCases -->
-        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-10T00:39:13 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-10T00:39:13 IDT" duration-ms="0" status="FAIL">
+        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-11T22:55:42 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-11T22:55:42 IDT" duration-ms="1" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -184,7 +184,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCases -->
-        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-10T00:39:13 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-10T00:39:13 IDT" duration-ms="1" status="PASS">
+        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-11T22:55:42 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-11T22:55:42 IDT" duration-ms="6" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -215,7 +215,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCases -->
-        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-10T00:39:13 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-10T00:39:13 IDT" duration-ms="3" status="PASS">
+        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-11T22:55:42 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-11T22:55:42 IDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -246,7 +246,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCases -->
-        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-10T00:39:13 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-10T00:39:13 IDT" duration-ms="1" status="PASS">
+        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-11T22:55:42 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-11T22:55:42 IDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -277,7 +277,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCases -->
-        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-10T00:39:13 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-10T00:39:13 IDT" duration-ms="1" status="PASS">
+        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-11T22:55:42 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-11T22:55:42 IDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -308,7 +308,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCases -->
-        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-10T00:39:13 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-10T00:39:13 IDT" duration-ms="1" status="FAIL">
+        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-11T22:55:42 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-11T22:55:42 IDT" duration-ms="1" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -381,7 +381,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCases -->
-        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-10T00:39:13 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-10T00:39:13 IDT" duration-ms="0" status="PASS">
+        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-11T22:55:42 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-11T22:55:42 IDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -412,7 +412,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCases -->
-        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-10T00:39:13 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-10T00:39:13 IDT" duration-ms="0" status="FAIL">
+        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-11T22:55:42 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-11T22:55:42 IDT" duration-ms="1" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -485,7 +485,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCases -->
-        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-10T00:39:13 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-10T00:39:13 IDT" duration-ms="0" status="FAIL">
+        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-11T22:55:42 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-11T22:55:42 IDT" duration-ms="0" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -558,7 +558,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCases -->
-        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-10T00:39:13 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-10T00:39:13 IDT" duration-ms="1" status="PASS">
+        <test-method signature="testCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProvider@3e84448c]" started-at="2022-09-11T22:55:42 IDT" name="testCases" data-provider="ProviderMethod" finished-at="2022-09-11T22:55:42 IDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -594,7 +594,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
         <test-method signature="testArea()[pri:0, instance:* Ellipse with :
 - semiMajorAxis= 7.0
 - semiMinorAxis6.0
-&gt; Area= 131.88, instance params:[]]" started-at="2022-09-10T00:39:13 IDT" name="testArea" finished-at="2022-09-10T00:39:13 IDT" duration-ms="0" status="FAIL">
+&gt; Area= 131.88, instance params:[]]" started-at="2022-09-11T22:55:42 IDT" name="testArea" finished-at="2022-09-11T22:55:42 IDT" duration-ms="0" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [131.88] but found [131.87]]]>
@@ -646,7 +646,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 - First width= 2.0
 - second width =0.0
 - high = 1.0
-&gt; Area= 1.0, instance params:[]]" started-at="2022-09-10T00:39:13 IDT" name="testArea" finished-at="2022-09-10T00:39:13 IDT" duration-ms="0" status="FAIL">
+&gt; Area= 1.0, instance params:[]]" started-at="2022-09-11T22:55:42 IDT" name="testArea" finished-at="2022-09-11T22:55:42 IDT" duration-ms="1" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [1.0] but found [3.0]]]>
@@ -696,7 +696,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 - First width= 2.0
 - second width =4.0
 - high = 1.0
-&gt; Area= 3.0, instance params:[]]" started-at="2022-09-10T00:39:13 IDT" name="testArea" finished-at="2022-09-10T00:39:13 IDT" duration-ms="0" status="PASS">
+&gt; Area= 3.0, instance params:[]]" started-at="2022-09-11T22:55:42 IDT" name="testArea" finished-at="2022-09-11T22:55:42 IDT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testArea -->
@@ -705,7 +705,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
         <test-method signature="testArea()[pri:0, instance:* Parallelogram with :
 - width = 2.0
 - high=4.0
-&gt; Area= 8.0, instance params:[]]" started-at="2022-09-10T00:39:13 IDT" name="testArea" finished-at="2022-09-10T00:39:13 IDT" duration-ms="0" status="PASS">
+&gt; Area= 8.0, instance params:[]]" started-at="2022-09-11T22:55:42 IDT" name="testArea" finished-at="2022-09-11T22:55:42 IDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testArea -->
@@ -714,7 +714,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
         <test-method signature="testArea()[pri:0, instance:* Triangle with:
 - width= 5.0
 - high =0.0
-&gt; Area= 0.0, instance params:[]]" started-at="2022-09-10T00:39:13 IDT" name="testArea" finished-at="2022-09-10T00:39:13 IDT" duration-ms="1" status="FAIL">
+&gt; Area= 0.0, instance params:[]]" started-at="2022-09-11T22:55:43 IDT" name="testArea" finished-at="2022-09-11T22:55:43 IDT" duration-ms="1" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [0.0] but found [5.0]]]>
@@ -763,7 +763,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
         <test-method signature="testArea()[pri:0, instance:* Triangle with:
 - width= 5.0
 - high =2.0
-&gt; Area= 5.0, instance params:[]]" started-at="2022-09-10T00:39:13 IDT" name="testArea" finished-at="2022-09-10T00:39:13 IDT" duration-ms="0" status="FAIL">
+&gt; Area= 5.0, instance params:[]]" started-at="2022-09-11T22:55:43 IDT" name="testArea" finished-at="2022-09-11T22:55:43 IDT" duration-ms="0" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [5.0] but found [2.0]]]>
@@ -812,7 +812,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
         <test-method signature="testArea()[pri:0, instance:* Triangle with:
 - width= 5.0
 - high =2.0
-&gt; Area= 5.0, instance params:[]]" started-at="2022-09-10T00:39:13 IDT" name="testArea" finished-at="2022-09-10T00:39:13 IDT" duration-ms="0" status="PASS">
+&gt; Area= 5.0, instance params:[]]" started-at="2022-09-11T22:55:43 IDT" name="testArea" finished-at="2022-09-11T22:55:43 IDT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testArea -->
@@ -820,24 +820,15 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
       <class name="Classes.Square">
         <test-method signature="testArea()[pri:0, instance:* Square with 
 - Sides= 2.0
-&gt; Area= 4.0, instance params:[]]" started-at="2022-09-10T00:39:13 IDT" name="testArea" finished-at="2022-09-10T00:39:13 IDT" duration-ms="0" status="PASS">
+&gt; Area= 4.0, instance params:[]]" started-at="2022-09-11T22:55:42 IDT" name="testArea" finished-at="2022-09-11T22:55:42 IDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testArea -->
       </class> <!-- Classes.Square -->
-      <class name="Classes.Rectangle">
-        <test-method signature="testArea()[pri:0, instance:* Rectangle with:
-- width = 4.0
-- high= 5.0
-&gt; Area= 20.0, instance params:[]]" started-at="2022-09-10T00:39:13 IDT" name="testArea" finished-at="2022-09-10T00:39:13 IDT" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testArea -->
-      </class> <!-- Classes.Rectangle -->
       <class name="Classes.Circle">
         <test-method signature="testArea()[pri:0, instance:* Circle with :
 - radius= 0.0
-&gt; Area= 0.0, instance params:[]]" started-at="2022-09-10T00:39:13 IDT" name="testArea" finished-at="2022-09-10T00:39:13 IDT" duration-ms="1" status="FAIL">
+&gt; Area= 0.0, instance params:[]]" started-at="2022-09-11T22:55:42 IDT" name="testArea" finished-at="2022-09-11T22:55:42 IDT" duration-ms="1" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [0.0] but found [78.5]]]>
@@ -885,16 +876,25 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
         </test-method> <!-- testArea -->
         <test-method signature="testArea()[pri:0, instance:* Circle with :
 - radius= 5.0
-&gt; Area= 78.5, instance params:[]]" started-at="2022-09-10T00:39:13 IDT" name="testArea" finished-at="2022-09-10T00:39:13 IDT" duration-ms="0" status="PASS">
+&gt; Area= 78.5, instance params:[]]" started-at="2022-09-11T22:55:42 IDT" name="testArea" finished-at="2022-09-11T22:55:42 IDT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testArea -->
       </class> <!-- Classes.Circle -->
+      <class name="Classes.Rectangle">
+        <test-method signature="testArea()[pri:0, instance:* Rectangle with:
+- width = 4.0
+- high= 5.0
+&gt; Area= 20.0, instance params:[]]" started-at="2022-09-11T22:55:42 IDT" name="testArea" finished-at="2022-09-11T22:55:42 IDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArea -->
+      </class> <!-- Classes.Rectangle -->
       <class name="Classes.Sector">
         <test-method signature="testArea()[pri:0, instance:* Sector with :
 - Radius= 4.0
 - Angle 180.0
-&gt; Area= 25.12, instance params:[]]" started-at="2022-09-10T00:39:13 IDT" name="testArea" finished-at="2022-09-10T00:39:13 IDT" duration-ms="0" status="PASS">
+&gt; Area= 25.12, instance params:[]]" started-at="2022-09-11T22:55:42 IDT" name="testArea" finished-at="2022-09-11T22:55:42 IDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testArea -->

@@ -11,7 +11,7 @@ public class Ellipse extends Shape {
 	private double semiMajorAxis;
 	private double semiMinorAxis;
 	private final double PI = 3.14;
-	private double expectArea;
+	public double expectArea;
 
 	public Ellipse(double semiMajorAxis, double semiMinorAxis, double expectArea) throws IllegalAccessException {
 		this.semiMajorAxis = semiMajorAxis;
@@ -31,10 +31,7 @@ public class Ellipse extends Shape {
 		return PI * getSemiMajorAxis() * getSemiMinorAxis();
 	}
 
-	@Test
-	public void testArea() {
-		assertEquals(expectArea, getArea());
-	}
+	
 
 	@Override
 	public String toString() {

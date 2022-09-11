@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 public class Triangle extends Shape {
 	private double width;
 	private double high;
-	private double expectArea;
+	public double expectArea;
 
 	public Triangle(double width, double high, double expectArea) throws IllegalAccessException {
 		this.high = high;
@@ -31,10 +31,6 @@ public class Triangle extends Shape {
 		return 0.5 * getWidth() * getHigh();
 	}
 
-	@Test
-	public void testArea() {
-		assertEquals(expectArea, getArea());
-	}
 
 	@Override
 	public String toString() {

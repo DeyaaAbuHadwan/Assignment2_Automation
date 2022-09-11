@@ -11,7 +11,7 @@ public class Trapezoid extends Shape {
 	private double width1;
 	private double width2;
 	private double high;
-	private double expectArea;
+	public double expectArea;
 
 	public Trapezoid(double width1, double width2, double high, double expectArea) throws IllegalAccessException {
 		this.high = high;
@@ -34,11 +34,6 @@ public class Trapezoid extends Shape {
 
 	public double getArea() {
 		return 0.5 * (getWidth1() + getWidth2()) * getHigh();
-	}
-
-	@Test
-	public void testArea() {
-		assertEquals(expectArea, getArea());
 	}
 
 	@Override

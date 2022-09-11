@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 public class Rectangle extends Shape {
 	private double width;
 	private double high;
-	private double expectArea;
+	public double expectArea;
 
 	public Rectangle(double width, double high, double expectArea) throws IllegalAccessException {
 		this.width = width;
@@ -30,10 +30,7 @@ public class Rectangle extends Shape {
 		return getHigh() * getWidth();
 	}
 
-	@Test
-	public void testArea() {
-		assertEquals(expectArea, getArea());
-	}
+
 
 	@Override
 	public String toString() {

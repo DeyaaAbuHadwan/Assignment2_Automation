@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 public class Parallelogram extends Shape {
 	private double width;
 	private double high;
-	private double expectArea;
+	public double expectArea;
 
 	public Parallelogram(double width, double high, double expectArea) throws IllegalAccessException {
 		this.high = high;
@@ -30,10 +30,7 @@ public class Parallelogram extends Shape {
 		return getWidth() * getHigh();
 	}
 
-	@Test
-	public void testArea() {
-		assertEquals(expectArea, getArea());
-	}
+
 
 	@Override
 	public String toString() {
